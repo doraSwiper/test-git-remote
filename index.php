@@ -9,5 +9,8 @@
 <body>
     <h1>Hello Bekasi!</h1>
     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores, tempora!</p>
+    <ul>
+        <li>Dora Swiper</li>
+    </ul>
 </body>
 </html>
